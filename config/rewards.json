@@ -1,0 +1,17 @@
+{
+  "cat_photo": {
+    "name": "Фото кота",
+    "image": "/images/cat.png",
+    "sell_price": 20
+  },
+  "gold_sticker": {
+    "name": "Золотой стикер",
+    "image": "/images/sticker.png",
+    "sell_price": 50
+  },
+  "useless_gem": {
+    "name": "Бесполезный камень",
+    "image": "/images/gem.png",
+    "sell_price": 5
+  }
+}

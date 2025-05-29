@@ -1,0 +1,12 @@
+{
+  "starter_case": {
+    "name": "Стартовый кейс",
+    "price": 100,
+    "image": "/images/case1.png",
+    "rewards": {
+      "cat_photo": 60,
+      "gold_sticker": 30,
+      "useless_gem": 10
+    }
+  }
+}
